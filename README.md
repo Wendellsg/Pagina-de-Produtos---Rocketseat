@@ -1,4 +1,4 @@
-Pagina criada com ReactJs. Afim de praticar os conhecimentos adiquiridos no tutorial da rockeseat.
+Pagina criada com ReactJs com Typescript. Afim de praticar os conhecimentos adiquiridos no tutorial da rockeseat.
 
 Link para o screemshot da Página:
 
