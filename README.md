@@ -1,3 +1,29 @@
+Pagina criada com ReactJs. Afim de praticar os conhecimentos adiquiridos no tutorial da rockeseat.
+
+Link para o screemshot da Página:
+
+https://drive.google.com/file/d/1qRNI05MNKcFNUADTOQXsbUJHNAp4GIA9/view?usp=sharing
+
+
+Link do vídeo da RocketSeat:
+
+https://www.youtube.com/watch?v=APs_xQ2hUOE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
